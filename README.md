@@ -11,7 +11,7 @@ I'll work to update here as I develop solutions and produce things like Makefile
 | Item | Status | Notes |
 |:-----|:------:|------:|
 |Makefile| Inkling|||
-|[Table Gen Prog]()|||
+|[Table Gen Prog](https://github.com/jsburke/scala_learning/blob/master/src/tableGen.scala)| Complete | Trivial thing to gen most of this table|
 |Problem 1 |||
 |Problem 2 |||
 |Problem 3 |||
