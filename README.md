@@ -12,8 +12,8 @@ I'll work to update here as I develop solutions and produce things like Makefile
 |:-----|:------:|------:|
 |Makefile| Inkling|||
 |[Table Gen Prog](https://github.com/jsburke/scala_learning/blob/master/src/tableGen.scala)| Complete | Trivial thing to gen most of this table|
-|Problem 1 |||
-|Problem 2 |||
+|Problem 1 |complete|get last of list|
+|Problem 2 |complete, could do a list-cons pattern matching one|get 2nd to last of list|
 |Problem 3 |||
 |Problem 4 |||
 |Problem 5 |||
